@@ -9,3 +9,22 @@
 | [DARiOX](https://dariox.club) | [SeedBot](https://seedbot.xyz) |
 | - | - |
 | founder, lead developer | project lead, lead developer |
+
+### frontend
+- webpack
+- jQuery
+- bootstrap (duh)
+
+### backend
+- node.js
+  - discord.js
+- python 3.x
+- php
+
+### langauge combos
+- node.js + jquery + webpack = big web projects
+- php + (node.js + webpack) = big combo web projects
+- php + bootstrap = small -> medium web projects
+- python = small serverside project/scripts
+
+currently i perfer to work with `node.js` for serverside projects and `python` for server/client scripts
