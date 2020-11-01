@@ -18,6 +18,8 @@
 ### backend
 - node.js
   - discord.js
+  - webpack
+  - electron
 - python 3.x
 - php
 
@@ -27,4 +29,4 @@
 - php + bootstrap = small -> medium web projects
 - python = small serverside project/scripts
 
-currently i perfer to work with `node.js` for serverside projects and `python` for server/client scripts
+currently i perfer to work with `node.js` for server/client projects and `python` for server/client scripts
