@@ -17,19 +17,24 @@
 ### frontend
 - webpack
 - jQuery
+- electron
 - bootstrap (duh)
+- html5,css3
+- [materialize](https://materializecss.com/)
 
 ### backend
 - node.js
   - discord.js
   - webpack
   - electron
+  - electron-forge
 - python 3.x
 - php
 
 ### langauge combos
 - node.js + jquery + webpack = big web projects
-- php + (node.js + webpack) = big combo web projects
+- php (api) + (node.js + webpack) = big combo web projects
+- node.js + materialize + jquery = desktop projects
 - php + bootstrap = small -> medium web projects
 - python = small serverside project/scripts
 
