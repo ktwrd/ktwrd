@@ -30,6 +30,7 @@
   - electron-forge
 - python 3.x
 - php
+- java (learning it as of dec 2020) (internal tools)
 
 ### langauge combos
 - node.js + jquery + webpack = big web projects
@@ -37,5 +38,6 @@
 - node.js + materialize + jquery = desktop projects
 - php + bootstrap = small -> medium web projects
 - python = small serverside project/scripts
+- node.js + java = internal utilities
 
-currently i perfer to work with `node.js` for server/client projects and `python` for server/client scripts
+currently i perfer to work with `node.js` for server/client projects and `java` for server/client programs.
