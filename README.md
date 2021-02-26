@@ -10,10 +10,6 @@
 	</tr>
 </table>
 
-| [DARiOX](https://dariox.club) | [SeedBot](https://seedbot.xyz) |
-| - | - |
-| founder, lead developer | project lead, lead developer |
-
 ### frontend
 i perfer working with frameworks that have a dense and descriptive documentation and have passed the test of time.
 - webpack
