@@ -1,4 +1,4 @@
-# welcome!
+<h1 style="text-align:center;">welcome!~</h1>
 <table>
 	<tr>
 		<td>
@@ -17,18 +17,19 @@
 ### frontend
 i perfer working with frameworks that have a dense and descriptive documentation and have passed the test of time.
 - webpack
-- jQuery
+- jQuery (proficient)
 - bootstrap
 - [materialize](https://materializecss.com/)
 
 ### backend
-- node.js
-  - discord.js
+- node.js (proficient)
+  - discord.js (proficient)
   - webpack
-  - electron-forge
-  - API servers
+  - electron (proficient)
+  - developing API servers
+  - developing/using API wrappers (proficient)
 - python 3.x
-- php
+- php (proficient)
 - java (internal tools)
 
 ### langauge prefrences
