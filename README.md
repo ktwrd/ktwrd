@@ -15,29 +15,46 @@
 | founder, lead developer | project lead, lead developer |
 
 ### frontend
+i perfer working with frameworks that have a dense and descriptive documentation and have passed the test of time.
 - webpack
 - jQuery
-- electron
-- bootstrap (duh)
-- html5,css3
+- bootstrap
 - [materialize](https://materializecss.com/)
 
 ### backend
 - node.js
   - discord.js
   - webpack
-  - electron
   - electron-forge
+  - API servers
 - python 3.x
 - php
-- java (learning it as of dec 2020) (internal tools)
+- java (internal tools)
 
-### langauge combos
-- node.js + jquery + webpack = big web projects
-- php (api) + (node.js + webpack) = big combo web projects
-- node.js + materialize + jquery = desktop projects
-- php + bootstrap = small -> medium web projects
-- python = small serverside project/scripts
-- node.js + java = internal utilities
+### langauge prefrences
+when working with web-based projects it depends on what it is, if it's a program that turns data into another form of data or visualises that data there is a very high chance i won't be using a langauge like php. below this is my current prefrences (frameworks/langauges) for what type of application i want to make.
 
-currently i perfer to work with `node.js` for server/client projects and `java` for server/client programs.
+- dynamic web projects (no client-side authentication)
+  - **node.js**
+  - webpack
+  - jQuery
+- dynamic web projects (with client-side authentication)
+  - **php** (serving pages that require authentication)
+  - webpack (client-side processing)
+- desktop applications (heavy reliance on API's)
+  - **node.js**
+  - electron
+  - jquery
+  - axios
+  - custom API wrapper
+- desktop applications (performance > looks)
+  - **C#**
+  - .NET framework (or mono)
+- cli applications
+  - **node.js**
+  - signale
+  - custom API wrapper (if required)
+- internal tools (remote management, etc...)
+  - java (client)
+  - node.js (server)
+  - php (depends)
