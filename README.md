@@ -28,8 +28,8 @@ i perfer working with frameworks that have a dense and descriptive documentation
 - php (proficient)
 - java (internal tools)
 
-### langauge prefrences
-when working with web-based projects it depends on what it is, if it's a program that turns data into another form of data or visualises that data there is a very high chance i won't be using a langauge like php. below this is my current prefrences (frameworks/langauges) for what type of application i want to make.
+### prefrences
+when working with web-based projects it depends on what it is, if it's a program that turns data into another form of data or visualises that data there is a very high chance i won't be using a langauge like php. below this is my current prefrences (frameworks/langauges) for what type of application i want to make. currently, i perfer the GNU LGPLv3 license compared to the license i was using for nearly all of my projects (GPL2.0/3.0). You can compare those changes by googling those licenses.
 
 - dynamic web projects (no client-side authentication)
   - **node.js**
