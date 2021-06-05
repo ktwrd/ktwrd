@@ -12,9 +12,10 @@
 
 
 <details>
-	<summary>project prefrences</summary>
-	
+	<summary><strong>project prefrences</strong></summary>
+	<p>
 	when working with web-based projects it depends on what it is, if it's a program that turns data into another form of data or visualises that data there is a very high chance i won't be using a langauge like php. below this is my current prefrences (frameworks/langauges) for what type of application i want to make. currently, i perfer the GNU LGPLv3 license compared to the license i was using for nearly all of my projects (GPL2.0/3.0). You can compare those changes by googling those licenses.
+	</p>
 
 - dynamic web projects (no client-side authentication)
   - **node.js**
@@ -28,7 +29,7 @@
   - electron
   - jquery
   - axios
-  - custom API wrapper
+  - custom API wrappers
 - desktop applications (performance > looks)
   - **C#**
   - .NET framework (or mono)
@@ -37,9 +38,10 @@
   - signale
   - custom API wrapper (if required)
 - internal tools (remote management, etc...)
-  - java (client)
   - node.js (server)
-  - php (depends)
+  - webpack (client -> api -> node.js server)
+  - electron (server & client combo)
+  - C# (anything that required anything to do with OS level things)
 
 more info about my langauge/framework prefrences for frontend and backend
 
@@ -48,23 +50,25 @@ more info about my langauge/framework prefrences for frontend and backend
 ### frameworks/langauges
 <details>
 	<summary>frontend</summary>
-	i perfer working with frameworks that have a dense and descriptive documentation and have passed the test of time.
-	- webpack
-	- jQuery (proficient)
-	- bootstrap
-	- [materialize](https://materializecss.com/)
+<p>i perfer working with frameworks that have a dense and descriptive documentation and have passed the test of time.</p>
+	
+- webpack
+- jQuery (proficient)
+- bootstrap
+- [materialize](https://materializecss.com/)
 </details>
 
 <details>
 	<summary>backend</summary>
-	- node.js (proficient)
-	  - discord.js (proficient)
-	  - webpack
-	  - electron (proficient)
-	  - developing API servers
-	  - developing/using API wrappers (proficient)
-	- python 3.x (yeah sorta)
-	- php (proficient)
-	- java (internal tools)
-	- SQLite (i know enough to make it "work")
+<p>most of the time when i'm developing backend software i'm either using the most stable libraries or my own</p>
+	
+- node.js (proficient)
+  - discord.js (proficient)
+  - webpack
+  - electron (proficient)
+  - developing API servers
+  - developing/using API wrappers (proficient)
+- php (proficient)
+- 
+- SQLite (i know enough to make it "work")
 </details>
