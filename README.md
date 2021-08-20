@@ -47,7 +47,7 @@ more info about my langauge/framework prefrences for frontend and backend
 
 </details>
 
-### frameworks/langauges
+### frameworks/langauges/modules
 <details>
 	<summary>frontend</summary>
 <p>i perfer working with frameworks that have a dense and descriptive documentation and have passed the test of time.</p>
@@ -56,6 +56,8 @@ more info about my langauge/framework prefrences for frontend and backend
 - jQuery (proficient)
 - bootstrap
 - [materialize](https://materializecss.com/)
+- sweetalert
+
 </details>
 
 <details>
