@@ -10,6 +10,7 @@
 	</tr>
 </table>
 
+"full-stack" javascript software developer w/ 3 years of full-time javascript development as my main langauge and 2 years of mixed knowledge of other langauges.
 
 <details>
 	<summary><strong>project prefrences</strong></summary>
