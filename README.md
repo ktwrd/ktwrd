@@ -19,8 +19,8 @@
 
 - dynamic web projects (no client-side authentication)
   - **node.js**
-  - webpack
-  - jQuery
+  	- webpack
+  	- jQuery
 - dynamic web projects (with client-side authentication)
   - **php** (serving pages that require authentication)
   - webpack (client-side processing)
@@ -35,13 +35,13 @@
   - .NET framework (or mono)
 - cli applications
   - **node.js**
-  - signale
-  - custom API wrapper (if required)
+  	- signale
+  	- custom API wrapper (if required)
 - internal tools (remote management, etc...)
   - node.js (server)
   - webpack (client -> api -> node.js server)
   - electron (server & client combo)
-  - C# (anything that required anything to do with OS level things)
+  - C# (anything that requires low latency)
 
 more info about my langauge/framework prefrences for frontend and backend
 
@@ -69,6 +69,6 @@ more info about my langauge/framework prefrences for frontend and backend
   - developing API servers
   - developing/using API wrappers (proficient)
 - php (proficient)
-- 
-- SQLite (i know enough to make it "work")
+- c# (knowledgeable)
+- SQLite/MySQL/MariaDB (i know enough to make it "work")
 </details>
