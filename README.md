@@ -10,6 +10,8 @@
 	</tr>
 </table>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D56LQUT)
+
 "full-stack" javascript software developer w/ 3 years of full-time javascript development as my main langauge and 2 years of mixed knowledge of other langauges.
 
 <details>
