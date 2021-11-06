@@ -75,5 +75,5 @@ more info about my langauge/framework prefrences for frontend and backend
   - developing/using API wrappers (proficient)
 - php (proficient)
 - c# (knowledgeable)
-- SQLite/MySQL/MariaDB
+- SQLite/MySQL/MariaDB/PostgreSQL
 </details>
