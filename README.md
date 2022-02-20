@@ -10,7 +10,7 @@
 	</tr>
 </table>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D56LQUT)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D56LQUT) - [gitlab](https://gitlab.com/ktwrd/)
 
 "full-stack" javascript software developer w/ 3 years of full-time javascript development (started "full-time" in early 2019) as my main langauge and 5 years of mixed knowledge of other langauges (first proper langauge I learned was PHP in 2014, started using it heavily in 2015 and stopped in 2019).
 
