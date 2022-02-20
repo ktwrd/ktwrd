@@ -2,10 +2,10 @@
 <table>
 	<tr>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api?username=jylescoad-ward&count_private=true&theme=dark" />
+			<img src="https://github-readme-stats.vercel.app/api?username=ktwrd&count_private=true&theme=dark" />
 		</td>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jylescoad-ward&layout=compact&theme=dark" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwrd&layout=compact&theme=dark" />
 		</td>
 	</tr>
 </table>
