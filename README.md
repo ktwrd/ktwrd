@@ -1,4 +1,4 @@
-<h1 style="text-align:center;">welcome!~</h1>
+<h1 style="text-align:center;">welcome! 💙💜🤍💜💙</h1>
 <table>
 	<tr>
 		<td>
@@ -19,7 +19,9 @@
 		</td>
 	</tr>
 </table>
-"full-stack" javascript software developer w/ 3 years of full-time javascript development (started "full-time" in early 2019) as my main langauge and 5 years of mixed knowledge of other langauges (first proper langauge I learned was PHP in 2014, started using it heavily in 2015 and stopped in 2019).
+"full-stack" javascript software developer w/ 4 years of full-time javascript development (started "full-time" in early 2018) as my main langauge and 7 years of mixed knowledge of other langauges (first proper langauge I learned was PHP in 2014, started using it heavily in 2015 and stopped in 2019).
+
+currently i'm working for a mining company developing software using the MEVN/SEVN stack (mongodb/sqlite, electron, vue.js, node.js) since dec 2021. not saying where because there are creepy ppl on the internet.
 
 <details>
 	<summary><strong>project prefrences</strong></summary>
@@ -30,19 +32,20 @@
 - dynamic web projects (no client-side authentication)
   - **node.js**
   	- webpack
+	- vue
   	- jQuery
-- dynamic web projects (with client-side authentication)
-  - **php** (serving pages that require authentication)
-  - webpack (client-side processing)
+- dynamic web projects (with heavy client-side authentication, no oauth)
+  - **php** (serving pages or keys that require authentication)
+  - webpack (client-side)
 - desktop applications (heavy reliance on API's)
   - **node.js**
   - electron
   - jquery
-  - axios
+  - vue
   - custom API wrappers
 - desktop applications (performance > looks)
   - **C#**
-  - .NET framework (or mono)
+	- monogame
 - cli applications
   - **node.js**
   	- signale
