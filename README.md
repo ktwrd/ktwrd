@@ -8,6 +8,13 @@
 			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ktwrd&layout=compact&theme=dark" />
 		</td>
 	</tr>
+	<tr>
+		<td colspan="2">
+			<p align="center">
+			<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ktwrd&theme=dark&all_time&langs_count=5&layout=compact" />
+			</p>
+		</td>
+	</tr>
 </table>
 <p align="center">
 	<a href="https://wakatime.com/@f1670b0d-c9bc-408c-b295-d52058d91d4d"><img src="https://wakatime.com/badge/user/f1670b0d-c9bc-408c-b295-d52058d91d4d.svg" alt="Total time coded since Jul 21 2022" /></a>
@@ -17,4 +24,6 @@
 	<a href="https://github.com/sixgrid"><img src="https://img.shields.io/badge/github-sixgrid-blue?logo=github" /></a><br>
 	<img src="https://count.getloli.com/get/@ktwrd" alt="Visitor Count duh!~" />
 </p>
+
+
 <!-- "full-stack" (MEVN) javascript software developer & full-time javascript development since 2018 as prefered langauge for web-heavy applications, on/off development of .NET software since 2018 with most of it being Unity and MonoGame, mixed knowledge of other langauges since ~2014 (PHP, batch/bash scripting, c/c++, python3x) -->
