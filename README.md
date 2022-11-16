@@ -18,10 +18,15 @@
 </table>
 <p align="center">
 	<a href="https://wakatime.com/@f1670b0d-c9bc-408c-b295-d52058d91d4d"><img src="https://wakatime.com/badge/user/f1670b0d-c9bc-408c-b295-d52058d91d4d.svg" alt="Total time coded since Jul 21 2022" /></a>
-	<!-- <img src="https://img.shields.io/badge/extremely-gay-%23C348CF" /> -->
-	<img src="https://dcbadge.vercel.app/api/shield/488187472514252811?style=flat&theme=clean&compact=true" />
+	<img src="https://img.shields.io/badge/extremely-gay-%23C348CF" />
 	<a href="https://gitlab.com/ktwrd"><img src="https://img.shields.io/badge/gitlab-ktwrd-%23inactive?logo=gitlab&logoColor=FC6D26" /></a>
-	<a href="https://github.com/sixgrid"><img src="https://img.shields.io/badge/github-sixgrid-blue?logo=github" /></a><br>
+	<a href="https://github.com/sixgrid"><img src="https://img.shields.io/badge/github-sixgrid-blue?logo=github" /></a>
+	<a href="https://kate.pet"><img src="https://img.shields.io/website?label=kate.pet&url=https%3A%2F%2Fkate.pet" /></a>
+	<br>
+	<img src="https://dcbadge.vercel.app/api/shield/488187472514252811?style=flat&theme=clean&compact=true" />
+	<a href="https://dariox.club/@kate"><img src="https://img.shields.io/mastodon/follow/109210693747175637?domain=https%3A%2F%2Fdariox.club&style=social" /></a>
+	<a href="https://twitter.com/seedvevo"><img src="https://img.shields.io/twitter/follow/seedvevo?style=social" /></a>
+	<br>
 	<img src="https://count.getloli.com/get/@ktwrd" alt="Visitor Count duh!~" />
 </p>
 
