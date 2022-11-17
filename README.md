@@ -22,6 +22,7 @@
 	<a href="https://gitlab.com/ktwrd"><img src="https://img.shields.io/badge/gitlab-ktwrd-%23inactive?logo=gitlab&logoColor=FC6D26" /></a>
 	<a href="https://github.com/sixgrid"><img src="https://img.shields.io/badge/github-sixgrid-blue?logo=github" /></a>
 	<a href="https://kate.pet"><img src="https://img.shields.io/website?label=kate.pet&url=https%3A%2F%2Fkate.pet" /></a>
+	<a href="https://dariox.club"><img src="https://img.shields.io/website?label=dariox.club&url=https%3A%2F%2Fdariox.club" /></a>
 	<br>
 	<img src="https://dcbadge.vercel.app/api/shield/488187472514252811?style=flat&theme=clean&compact=true" />
 	<a href="https://dariox.club/@kate"><img src="https://img.shields.io/mastodon/follow/109210693747175637?domain=https%3A%2F%2Fdariox.club&style=social" /></a>
