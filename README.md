@@ -31,5 +31,14 @@
 	<img src="https://count.getloli.com/get/@ktwrd" alt="Visitor Count duh!~" />
 </p>
 
+Just your local Transfem Typescript and C# Developer (ASP.NET Core, WinForms). Currently working full-time developing DRM and [license management software](https://github.com/ktwrd/opensoftwarelauncher).
+
+Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
+- [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e926-based](https://github.com/zwagoth/e621ng) websites)
+- [OSL](https://github.com/ktwrd/opensoftwarelauncher) (Open Source Software Licensing Platform)
+- [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Cross-platform alternative to MIDIControl)
+- [FRAMEDRAG](https://github.com/ktwrd/framedrag) (Framework for XNA/Monogame)
+
+You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/#/contact).
 
 <!-- "full-stack" (MEVN) javascript software developer & full-time javascript development since 2018 as prefered langauge for web-heavy applications, on/off development of .NET software since 2018 with most of it being Unity and MonoGame, mixed knowledge of other langauges since ~2014 (PHP, batch/bash scripting, c/c++, python3x) -->
