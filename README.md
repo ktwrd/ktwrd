@@ -21,6 +21,7 @@
 	<img src="https://img.shields.io/badge/extremely-gay-%23C348CF" />
 	<a href="https://gitlab.com/ktwrd"><img src="https://img.shields.io/badge/gitlab-ktwrd-%23inactive?logo=gitlab&logoColor=FC6D26" /></a>
 	<a href="https://github.com/sixgrid"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/sixgrid/sixgrid?label=sixgrid&logo=github"></a>
+	<a href="https://github.com/ktwrd/opensoftwarelauncher"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ktwrd/opensoftwarelauncher?label=OSL&logo=github"></a>
 	<br>
 	<!--img src="https://dcbadge.vercel.app/api/shield/488187472514252811?style=flat&theme=clean&compact=true" /-->
 	<a href="https://dariox.club/@kate"><img src="https://img.shields.io/mastodon/follow/109210693747175637?domain=https%3A%2F%2Fdariox.club&style=social" /></a>
