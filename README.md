@@ -20,9 +20,7 @@
 	<a href="https://wakatime.com/@f1670b0d-c9bc-408c-b295-d52058d91d4d"><img src="https://wakatime.com/badge/user/f1670b0d-c9bc-408c-b295-d52058d91d4d.svg" alt="Total time coded since Jul 21 2022" /></a>
 	<img src="https://img.shields.io/badge/extremely-gay-%23C348CF" />
 	<a href="https://gitlab.com/ktwrd"><img src="https://img.shields.io/badge/gitlab-ktwrd-%23inactive?logo=gitlab&logoColor=FC6D26" /></a>
-	<a href="https://github.com/sixgrid"><img src="https://img.shields.io/badge/github-sixgrid-blue?logo=github" /></a>
-	<a href="https://kate.pet"><img src="https://img.shields.io/website?label=kate.pet&url=https%3A%2F%2Fkate.pet" /></a>
-	<a href="https://dariox.club"><img src="https://img.shields.io/website?label=dariox.club&url=https%3A%2F%2Fdariox.club" /></a>
+	<a href="https://github.com/sixgrid"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/sixgrid/sixgrid?label=sixgrid&logo=github"></a>
 	<br>
 	<!--img src="https://dcbadge.vercel.app/api/shield/488187472514252811?style=flat&theme=clean&compact=true" /-->
 	<a href="https://dariox.club/@kate"><img src="https://img.shields.io/mastodon/follow/109210693747175637?domain=https%3A%2F%2Fdariox.club&style=social" /></a>
@@ -38,8 +36,7 @@ Just your local Transfem Typescript and C# Developer (ASP.NET Core, WinForms). C
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
 - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e926-based](https://github.com/zwagoth/e621ng) websites)
 - [OSL](https://github.com/ktwrd/opensoftwarelauncher) (Open Source Software Licensing Platform)
-- [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Cross-platform alternative to MIDIControl, semi-deprecated)
-- [FRAMEDRAG](https://github.com/ktwrd/framedrag) (Framework for XNA/Monogame, semi-deprecated)
+- [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Cross-platform alternative to MIDIControl)
 
 You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/#/contact).
 
