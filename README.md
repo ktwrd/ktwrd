@@ -24,7 +24,7 @@
 	<a href="https://github.com/ktwrd/opensoftwarelauncher"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ktwrd/opensoftwarelauncher?label=OSL&logo=github"></a>
 	<br>
 	<!--img src="https://dcbadge.vercel.app/api/shield/488187472514252811?style=flat&theme=clean&compact=true" /-->
-	<a href="https://dariox.club/@kate"><img src="https://img.shields.io/mastodon/follow/109210693747175637?domain=https%3A%2F%2Fdariox.club&style=social" /></a>
+	<a href="https://xenia.social/@kate"><img src="https://img.shields.io/mastodon/follow/109210693747175637?domain=https%3A%2F%2Fxenia.social&style=social" /></a>
 	<a href="https://twitter.com/seedvevo"><img src="https://img.shields.io/twitter/follow/seedvevo?style=social" /></a>
 	<br>
 	<a href="https://ko-fi.com/D1D56LQUT"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
