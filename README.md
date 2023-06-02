@@ -38,6 +38,7 @@ Sometimes I tinker around with reverse engineering stuff and working on multiple
 - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e926-based](https://github.com/zwagoth/e621ng) websites)
 - [OSL](https://github.com/ktwrd/opensoftwarelauncher) (Open Source Software Licensing Platform)
 - [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Cross-platform alternative to MIDIControl)
+- [RevSharp](https://github.com/ktwrd/revsharp) (C# Library for [Revolt](https://revolt.chat))
 
 You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/#/contact).
 
