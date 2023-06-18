@@ -38,8 +38,8 @@ Sometimes I tinker around with reverse engineering stuff and working on multiple
 - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e926-based](https://github.com/zwagoth/e621ng) websites)
 - [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Cross-platform alternative to MIDIControl)
 - [RevSharp](https://github.com/ktwrd/revsharp) (C# Library for [Revolt](https://revolt.chat))
-- [Skidbot](https://github.com/ktwrd/revsharp/blob/main/RevSharp.ReBot) (General-purpose bot for [Revolt](https://revolt.chat))
+- [Skidbot](https://github.com/ktwrd/RevSharp/blob/main/README.ReBot.md) (General-purpose bot for [Revolt](https://revolt.chat))
 
-You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/#/contact).
+You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/#/links).
 
 <!-- "full-stack" (MEVN) javascript software developer & full-time javascript development since 2018 as prefered langauge for web-heavy applications, on/off development of .NET software since 2018 with most of it being Unity and MonoGame, mixed knowledge of other langauges since ~2014 (PHP, batch/bash scripting, c/c++, python3x) -->
