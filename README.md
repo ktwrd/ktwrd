@@ -29,10 +29,10 @@
 	<br>
 	<a href="https://ko-fi.com/D1D56LQUT"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
 	<br>
-	<img src="https://count.getloli.com/get/@ktwrd" alt="Visitor Count duh!~" />
+	<img src="https://count.getloli.com/get/@ktwrd?theme=asoul" alt="Visitor Count duh!" />
 </p>
 
-Just your local Transfem Typescript and C# Developer (ASP.NET Core, WinForms). Currently working full-time developing DRM and [license management software](https://github.com/ktwrd/opensoftwarelauncher).
+Just your local transfem Rust/C#/JS Developer. Currently working full-time developing propitrary DRM and license management software.
 
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
 - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e926-based](https://github.com/zwagoth/e621ng) websites)
