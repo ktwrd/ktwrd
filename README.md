@@ -1,4 +1,4 @@
-<h1 align="center">welcome! 💙💜🤍💜💙</h1>
+<h1 align="center">Welcome! 💙💜🤍💜💙</h1>
 <table align="center">
 	<tr>
 		<td>
