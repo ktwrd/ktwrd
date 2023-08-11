@@ -36,14 +36,15 @@ Just your local transfem Rust/C# Developer. Currently working full-time developi
 
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
 - Main projects
-  - [RevSharp](https://github.com/ktwrd/revsharp) (C# Library for [Revolt](https://revolt.chat))
-  - [Xenia](https://r.kate.pet/xenia) (General-purpose bot for [Revolt](https://revolt.chat))
-  - DRM@Work (Rust, C#)
+  - [Xenia](https://xenia.kate.pet) (General-purpose Discord)
+  - Maintaining my Homelab
+  - Whatever I'm doing at work
 - Sometimes I work on this
   - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e926-based](https://github.com/zwagoth/e621ng) websites)
-  - [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Cross-platform alternative to MIDIControl)
   - [Personal Website](https://github.com/ktwrd/kate.pet)
+  - [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Cross-platform alternative to MIDIControl)
   - [Tools to help make making things go quicker](https://ktwrd.github.io)
+  - [RevSharp](https://github.com/ktwrd/revsharp) (C# Library for [Revolt](https://revolt.chat))
 
 You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/#/links).
 
