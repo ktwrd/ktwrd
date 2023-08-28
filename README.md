@@ -37,6 +37,7 @@ Just your local transfem Rust/C# Developer. Currently working full-time developi
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
 - Main projects
   - [Xenia](https://xenia.kate.pet) (General-purpose Discord)
+  - Launcher Development with [Adastral Group](https://github.com/AdastralGroup)
   - Maintaining my Homelab
   - Whatever I'm doing at work
 - Sometimes I work on this
