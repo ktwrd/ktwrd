@@ -29,7 +29,7 @@
 	<br>
 	<a href="https://ko-fi.com/D1D56LQUT"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
 	<br>
-	<img src="https://count.getloli.com/get/@ktwrd?theme=asoul" alt="Visitor Count duh!" />
+	<!--img src="https://count.getloli.com/get/@ktwrd?theme=asoul" alt="Visitor Count duh!" /-->
 </p>
 
 Just your local transfem Rust/C# Developer. Currently working full-time developing propitrary DRM and license management software.
