@@ -32,20 +32,19 @@
 	<!--img src="https://count.getloli.com/get/@ktwrd?theme=asoul" alt="Visitor Count duh!" /-->
 </p>
 
-Just your local transfem Rust/C# Developer. Currently working full-time developing propitrary DRM and license management software.
+### Just your local transfem C#/TS Developer. Currently looking for work, and maintaining multiple projects.
 
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
 - Main projects
-  - [Xenia](https://xenia.kate.pet) (General-purpose Discord)
-  - Launcher Development with [Adastral Group](https://github.com/AdastralGroup)
+  - [Xenia](https://xenia.kate.pet) (General-purpose Discord Bot and Dashboard)
+  - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e621-based](https://github.com/zwagoth/e621ng) websites)
   - Maintaining my Homelab
   - Whatever I'm doing at work
 - Sometimes I work on this
-  - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e926-based](https://github.com/zwagoth/e621ng) websites)
-  - [Personal Website](https://github.com/ktwrd/kate.pet)
-  - [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Cross-platform alternative to MIDIControl)
+  - [Personal Website](https://github.com/ktwrd/kate.pet) ([view](https://kate.pet))
+  - [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Node-based alternative to MIDIControl)
   - [Tools to help make making things go quicker](https://ktwrd.github.io)
-  - [RevSharp](https://github.com/ktwrd/revsharp) (C# Library for [Revolt](https://revolt.chat))
+  - Launcher Development with [Adastral Group](https://github.com/AdastralGroup)
 
 You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/#/links).
 
