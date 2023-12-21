@@ -25,7 +25,7 @@
 	<!--img src="https://count.getloli.com/get/@ktwrd?theme=asoul" alt="Visitor Count duh!" /-->
 </p>
 
-### Just your local transfem C#/TS Developer. Tinkering away at work and occasionally working on personal projects.
+### Just your local transfem C#/TS Full-Stack Developer. Tinkering away at work and occasionally working on personal projects.
 
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
 - Main projects
