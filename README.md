@@ -36,8 +36,8 @@ Sometimes I tinker around with reverse engineering stuff and working on multiple
 - Sometimes I work on this
   - [Personal Website](https://github.com/ktwrd/kate.pet) ([view](https://kate.pet))
   - [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Node-based alternative to MIDIControl)
-  - [Tools to help make making things go quicker](https://ktwrd.github.io)
   - Launcher Development with [Adastral Group](https://github.com/AdastralGroup)
+  - [Tools to help make making things go quicker](https://ktwrd.github.io)
 
 You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/#/links).
 
