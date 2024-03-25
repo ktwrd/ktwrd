@@ -28,17 +28,18 @@
 ### Just your local transfem C#/TS Full-Stack Developer. Tinkering away at work and occasionally working on personal projects.
 
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
+- Work (very vaigue, because NDA)
+  - Maintaining legacy codebases that started development before I was born (VB6, .NET Framework, Ext.JS 3.x/4.x)
+  - Sql Server 201x maintaince
+  - Many internal tools!!!
 - Main projects
   - [Xenia](https://xenia.kate.pet) (General-purpose Discord Bot and Dashboard)
-  - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e621-based](https://github.com/zwagoth/e621ng) websites)
-  - Maintaining my Homelab
-  - Whatever I'm doing at work
-- Sometimes I work on this
   - [Personal Website](https://github.com/ktwrd/kate.pet) ([view](https://kate.pet))
-  - [MIDI Adapter](https://github.com/ktwrd/midiadapter) (Node-based alternative to MIDIControl)
-  - Things every now and then for [Adastral Group](https://github.com/AdastralGroup)
+  - Maintaining my Homelab
+- Sometimes I work on
+  - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e621-based](https://github.com/zwagoth/e621ng) websites)
   - [Tools to help make making things go quicker](https://ktwrd.github.io)
 
-You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/#/links).
+If you wish to see my full-ish portfolio, [then check it out on my website](https://kate.pet/p/portfolio)!
 
-<!-- "full-stack" (MEVN) javascript software developer & full-time javascript development since 2018 as prefered langauge for web-heavy applications, on/off development of .NET software since 2018 with most of it being Unity and MonoGame, mixed knowledge of other langauges since ~2014 (PHP, batch/bash scripting, c/c++, python3x) -->
+You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/p/links).
