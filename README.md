@@ -16,20 +16,18 @@
 	<a href="https://github.com/sixgrid"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/sixgrid/sixgrid?label=sixgrid&logo=github"></a>
 	<!--<a href="https://github.com/ktwrd/opensoftwarelauncher"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ktwrd/opensoftwarelauncher?label=OSL&logo=github"></a>-->
 	<br>
-	<!--img src="https://dcbadge.vercel.app/api/shield/488187472514252811?style=flat&theme=clean&compact=true" /-->
 	<a href="https://dariox.club/@kate"><img src="https://img.shields.io/mastodon/follow/109818887139268406?domain=https%3A%2F%2Fdariox.club&style=social" /></a>
 	<a href="https://twitter.com/seedvevo"><img src="https://img.shields.io/twitter/follow/seedvevo?style=social" /></a>
 	<br>
 	<a href="https://ko-fi.com/D1D56LQUT"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
 	<br>
-	<!--img src="https://count.getloli.com/get/@ktwrd?theme=asoul" alt="Visitor Count duh!" /-->
 </p>
 
 ### Just your local transfem C#/TS Full-Stack Developer. Tinkering away at work and occasionally working on personal projects.
 
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
 - Work (very vaigue, because NDA)
-  - Maintaining legacy codebases that started development before I was born (VB6, .NET Framework, Ext.JS 3.x/4.x)
+  - Maintaining legacy codebases where some started development before I was born (VB6, .NET Framework, Ext.JS 3.x/4.x)
   - Sql Server 201x maintaince
   - Many internal tools!!!
 - Main projects
@@ -37,8 +35,10 @@ Sometimes I tinker around with reverse engineering stuff and working on multiple
   - [Personal Website](https://github.com/ktwrd/kate.pet) ([view](https://kate.pet))
   - Maintaining my Homelab
 - Sometimes I work on
+  - [Adastral](https://github.com/adastralgroup)
+  - [Open Fortress](https://openfortress.fun/)
+  - [rustgrab](https://github.com/ktwrd/rustgrab) - Screenshot utility for Linux, made in Rust.
   - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e621-based](https://github.com/zwagoth/e621ng) websites)
-  - [Tools to help make making things go quicker](https://ktwrd.github.io)
 
 If you wish to see my full-ish portfolio, [then check it out on my website](https://kate.pet/p/portfolio)!
 
