@@ -23,7 +23,7 @@
 	<br>
 </p>
 
-### Just your local transfem C#/TS Full-Stack Developer. Tinkering away at work and occasionally working on personal projects.
+### Just your local transfem C# Full-Stack Developer. Tinkering away at work and occasionally working on personal projects.
 
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
 - Work (very vaigue, because NDA)
