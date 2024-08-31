@@ -31,11 +31,11 @@ Sometimes I tinker around with reverse engineering stuff and working on multiple
   - Sql Server 201x maintaince
   - Many internal tools!!!
 - Main projects
+  - ✨ [Adastral](https://github.com/adastralgroup) (Sourcemods Launcher and Manager)
   - [Xenia](https://xenia.kate.pet) (General-purpose Discord Bot and Dashboard)
   - [Personal Website](https://github.com/ktwrd/kate.pet) ([view](https://kate.pet))
   - Maintaining my Homelab
 - Sometimes I work on
-  - [Adastral](https://github.com/adastralgroup)
   - [Open Fortress](https://openfortress.fun/)
   - [rustgrab](https://github.com/ktwrd/rustgrab) - Screenshot utility for Linux, made in Rust.
   - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e621-based](https://github.com/zwagoth/e621ng) websites)
