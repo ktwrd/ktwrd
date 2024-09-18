@@ -11,10 +11,8 @@
 </table>
 <p align="center">
 	<a href="https://wakatime.com/@f1670b0d-c9bc-408c-b295-d52058d91d4d"><img src="https://wakatime.com/badge/user/f1670b0d-c9bc-408c-b295-d52058d91d4d.svg" alt="Total time coded since Jul 21 2022" /></a>
-	<img src="https://img.shields.io/badge/extremely-gay-%23C348CF" />
-	<a href="https://gitlab.com/ktwrd"><img src="https://img.shields.io/badge/gitlab-ktwrd-%23inactive?logo=gitlab&logoColor=FC6D26" /></a>
+	<img src="https://img.shields.io/badge/extremely-fruity-%23C348CF" />
 	<a href="https://github.com/sixgrid"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/sixgrid/sixgrid?label=sixgrid&logo=github"></a>
-	<!--<a href="https://github.com/ktwrd/opensoftwarelauncher"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/ktwrd/opensoftwarelauncher?label=OSL&logo=github"></a>-->
 	<br>
 	<a href="https://dariox.club/@kate"><img src="https://img.shields.io/mastodon/follow/109818887139268406?domain=https%3A%2F%2Fdariox.club&style=social" /></a>
 	<a href="https://twitter.com/seedvevo"><img src="https://img.shields.io/twitter/follow/seedvevo?style=social" /></a>
@@ -27,16 +25,19 @@
 
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
 - Work (very vaigue, because NDA)
-  - Maintaining legacy codebases where some started development before I was born (VB6, .NET Framework, Ext.JS 3.x/4.x)
-  - Sql Server 201x maintaince
+  - Maintaining legacy codebases (VB6, .NET Framework, Ext.JS 3.x/4.x)
+  - SQL Server 201x maintaince
   - Many internal tools!!!
+    - Mostly written with WinForms (incl usage of [WindowsRibbon](https://github.com/harborsiem/WindowsRibbon) and custom GDI+ drawing), and Avalonia UI
 - Main projects
-  - ✨ [Adastral](https://github.com/adastralgroup) (Sourcemods Launcher and Manager)
+  - [Adastral](https://github.com/adastralgroup) (Sourcemods Launcher and Manager)
+    - Maintainer of Cockatoo, the backend management system for *everything*.
   - [Xenia](https://xenia.kate.pet) (General-purpose Discord Bot and Dashboard)
   - [Personal Website](https://github.com/ktwrd/kate.pet) ([view](https://kate.pet))
   - Maintaining my Homelab
 - Sometimes I work on
   - [Open Fortress](https://openfortress.fun/)
+    - [beans-rs](https://github.com/ktwrd/beans-rs) (Open Fortress installer)
   - [rustgrab](https://github.com/ktwrd/rustgrab) - Screenshot utility for Linux, made in Rust.
   - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e621-based](https://github.com/zwagoth/e621ng) websites)
 
