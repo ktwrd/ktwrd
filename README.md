@@ -31,7 +31,7 @@ Sometimes I tinker around with reverse engineering stuff and working on multiple
     - Mostly written with WinForms (incl usage of [WindowsRibbon](https://github.com/harborsiem/WindowsRibbon) and custom GDI+ drawing), and Avalonia UI
 - Main projects
   - [Adastral](https://github.com/adastralgroup) (Sourcemods Launcher and Manager)
-    - Maintainer of Cockatoo, the backend management system for *everything*.
+    - Maintainer of [Cockatoo](https://github.com/AdastralGroup/Cockatoo), the backend management system for *everything*.
   - [Xenia](https://xenia.kate.pet) (General-purpose Discord Bot and Dashboard)
   - [Personal Website](https://github.com/ktwrd/kate.pet) ([view](https://kate.pet))
   - Maintaining my Homelab
