@@ -34,12 +34,12 @@ Sometimes I tinker around with reverse engineering stuff and working on multiple
   - [Adastral](https://github.com/adastralgroup) (Sourcemods Launcher and Manager)
     - Maintainer of [Cockatoo](https://github.com/AdastralGroup/Cockatoo) and Echelon, the backend management system for *everything*.
   - [Kasta](https://github.com/ktwrd/Kasta) (Open-Source Media Sharing Platform)
-  - [Xenia](https://xenia.kate.pet) (General-purpose Discord Bot and Dashboard with powerful moderation features)
   - [Personal Website](https://github.com/ktwrd/kate.pet) ([view](https://kate.pet))
   - Maintaining my Homelab
 - Sometimes I work on
   - [Open Fortress](https://openfortress.fun/)
     - [beans-rs](https://github.com/ktwrd/beans-rs) (Open Fortress installer)
+  - [Xenia](https://xenia.kate.pet) (General-purpose Discord Bot and Dashboard with powerful moderation features)
   - [rustgrab](https://github.com/ktwrd/rustgrab) - Screenshot utility for Linux, made in Rust.
   - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e621-based](https://github.com/zwagoth/e621ng) websites)
 
