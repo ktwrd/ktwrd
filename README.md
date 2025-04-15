@@ -31,7 +31,7 @@ Sometimes I tinker around with reverse engineering stuff and working on multiple
   - Many internal tools!!!
     - Mostly written with WinForms (incl usage of [WindowsRibbon](https://github.com/harborsiem/WindowsRibbon) and custom GDI+ drawing), and Avalonia UI
 - Main projects
-  - [Open Fortress](https://openfortress.fun/)
+  - [Open Fortress](https://openfortress.fun/) (incl [Get Psyched Games](https://getpsyched.games))
     - [beans-rs](https://github.com/ktwrd/beans-rs) (Open Fortress installer)
   - [Kasta](https://github.com/ktwrd/Kasta) (Open-Source Media Sharing Platform)
   - [Personal Website](https://github.com/ktwrd/kate.pet) ([view](https://kate.pet))
