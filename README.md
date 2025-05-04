@@ -12,7 +12,6 @@
 <p align="center">
 	<a href="https://wakatime.com/@f1670b0d-c9bc-408c-b295-d52058d91d4d"><img src="https://wakatime.com/badge/user/f1670b0d-c9bc-408c-b295-d52058d91d4d.svg" alt="Total time coded since Jul 21 2022" /></a>
 	<img src="https://img.shields.io/badge/extremely-fruity-%23C348CF" />
-	<a href="https://github.com/sixgrid"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/sixgrid/sixgrid?label=sixgrid&logo=github"></a>
 	<br>
 	<a href="https://dariox.club/@kate"><img src="https://img.shields.io/mastodon/follow/109818887139268406?domain=https%3A%2F%2Fdariox.club&style=social" /></a>
 	<a href="https://twitter.com/seedvevo"><img src="https://img.shields.io/twitter/follow/seedvevo?style=social" /></a>
