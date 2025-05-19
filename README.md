@@ -13,9 +13,6 @@
 	<a href="https://wakatime.com/@f1670b0d-c9bc-408c-b295-d52058d91d4d"><img src="https://wakatime.com/badge/user/f1670b0d-c9bc-408c-b295-d52058d91d4d.svg" alt="Total time coded since Jul 21 2022" /></a>
 	<img src="https://img.shields.io/badge/extremely-fruity-%23C348CF" />
 	<br>
-	<a href="https://dariox.club/@kate"><img src="https://img.shields.io/mastodon/follow/109818887139268406?domain=https%3A%2F%2Fdariox.club&style=social" /></a>
-	<a href="https://twitter.com/seedvevo"><img src="https://img.shields.io/twitter/follow/seedvevo?style=social" /></a>
-	<br>
 	<a href="https://ko-fi.com/D1D56LQUT"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" /></a>
 	<br>
 </p>
@@ -23,12 +20,13 @@
 ### Just your local transfem C# Full-Stack Developer. Tinkering away at work and occasionally working on personal projects.
 
 Sometimes I tinker around with reverse engineering stuff and working on multiple projects;
-- Work (very vaigue, because NDA)
-  - Maintaining legacy codebases (VB6, .NET Framework, Ext.JS 3.x/4.x)
+- Work (very vaigue)
+  - Maintaining legacy codebases (VB6, .NET Framework, ASP.NET Web Forms, Ext.JS 3.x/4.x, etc...)
   - Implementing CI/CD for legacy codebases (Azure Pipelines for WebForms)
   - SQL Server 201x maintaince
-  - Many internal tools!!!
-    - Mostly written with WinForms (incl usage of [WindowsRibbon](https://github.com/harborsiem/WindowsRibbon) and custom GDI+ drawing), and Avalonia UI
+  - Creation and maintainence of many internal tools
+    - All internal tools are written with C#
+    - Desktop Apps are mostly written with WinForms (incl creation & maintainence of custom control library), Avalonia, or Eto.Forms.
 - Main projects
   - [Open Fortress](https://openfortress.fun/) (incl [Get Psyched Games](https://getpsyched.games))
     - [beans-rs](https://github.com/ktwrd/beans-rs) (Open Fortress installer)
@@ -45,3 +43,5 @@ Sometimes I tinker around with reverse engineering stuff and working on multiple
 If you wish to see my full-ish portfolio, [then check it out on my website](https://kate.pet/p/portfolio)!
 
 You can find me on various platforms, which can all be found on my [homepage](https://kate.pet/p/links).
+
+**NOTE:** My GitHub contribution graph is kinda misleading for how much programming I do outside of work. A lot of the current projects I work on aren't on GitHub, and are either on the Open Fortress GitLab, or my own self-hosted Gitea instance.
