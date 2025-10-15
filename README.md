@@ -2,11 +2,11 @@
 
 Stuff I do:
 - Day-Job
-  - Maintaining legacy codebases (VB6, .NET Framework, ASP.NET Web Forms, Ext.JS 3.x/4.x, etc...)
-  - Implementing CI/CD for legacy codebases (Azure Pipelines for ASP.NET WebForms and VB6)
-  - SQL Server 201x maintaince
-  - Creation and maintainence of many internal tools
-    - All internal tools are written with C#
+  - Maintaining legacy codebases (VB6, .NET Framework, ASP.NET Web Forms, WCF Services, Ext.JS 3.x/4.x, etc...)
+    - Implementing CI/CD for legacy codebases (Azure Pipelines for ASP.NET WebForms and VB6)
+  - Contributing to the development & support of multiple enterprise-grade .NET Web Applications with tens of thousands of active users.
+  - SQL Server Database Administration, management, and auditing.
+  - Development of many internal tools written in C# and PowerShell 5/7
     - Desktop Apps are mostly written with; [Eto.Forms](https://github.com/picoe/Eto), WinForms (incl creation & maintainence of custom control library), or Avalonia.
 - Stuff I like doing outside of work:
   - [Open Fortress](https://openfortress.fun/) (incl [Get Psyched Games](https://getpsyched.games))
