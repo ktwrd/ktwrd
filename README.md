@@ -11,16 +11,17 @@ Stuff I do at work:
 ---
 
 Stuff I like doing outside of work:
-- [Open Fortress](https://openfortress.fun/) (incl [Get Psyched Games](https://getpsyched.games))
-  - [beans-rs](https://github.com/ktwrd/beans-rs) (Open Fortress installer)
+- Lots of stuff for [Open Fortress](https://openfortress.fun/) (incl [Get Psyched Games](https://getpsyched.games))
+  - [beans-rs](https://github.com/ktwrd/beans-rs) (Sourcemod installer for use with the Kachemak versioning system)
   - Internal scripts for deploying builds to Steam (and depot building).
   - Development of ticketing system for usage with partners for directly notifying or reporting to game developers of any high-priority issues. (cheat software reporting, vulnerability disclosure, etc...)
+  - System Administration for internal issue/bug tracker.
 - [Kasta](https://github.com/ktwrd/Kasta) (Open-Source Media Sharing Platform)
 - [Xenia](https://xenia.kate.pet) (General-purpose Discord Bot and Dashboard with powerful moderation features)
 - [Personal Website](https://github.com/ktwrd/kate.pet) ([view](https://kate.pet))
 - Maintaining my Homelab
 - Sometimes I work on
-  - [BlueboxTeam](https://github.com/BlueboxTeam) (Sourcemods Launcher and Manager)/Adastral Group
+  - [BlueboxTeam](https://github.com/BlueboxTeam) (Sourcemods Launcher and Manager) / [Adastral Group](https://adastral.net)
     - Maintainer of [Cockatoo](https://github.com/BlueboxTeam/Cockatoo)/Echelon, the backend management system for *everything*.
   - [rustgrab](https://github.com/ktwrd/rustgrab) - Screenshot utility for Linux, made in Rust.
   - [SixGrid](https://sixgrid.kate.pet) (Desktop Client for [e621-based](https://github.com/zwagoth/e621ng) websites)
